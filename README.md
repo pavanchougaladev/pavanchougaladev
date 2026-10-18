@@ -122,15 +122,19 @@ Building intelligent systems that transform complex image data into meaningful 3
 
 ---
 
+
 ## 📈 Contribution Activity Graph
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/pavan20066002-blip">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=pavan20066002-blip&theme=tokyo-night&hide_border=true&area=true"
+      alt="Pavan's GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavan20066002-blip&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
 
 ## 🗓️ Contribution Calendar
 
